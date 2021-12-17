@@ -1,0 +1,2 @@
+# Census_income
+STATEMENT: This data was extracted from the 1994 Census bureau database by Ronny Kohavi and Barry Becker (Data Mining and Visualization, Silicon Graphics). A set of reasonably clean records was extracted using the following conditions: ((AAGE>16) &amp;&amp; (AGI>100) &amp;&amp; (AFNLWGT>1) &amp;&amp; (HRSWK>0)). The prediction task is to determine whether a person makes over $50K a year.
